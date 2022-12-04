@@ -7,33 +7,3 @@ I am Shashwat Suthar! I am interested in computer graphics and physics engines a
 > "Anything that prevents you from being friendly, a good neighbour, is a terror tactic."
 > <br/>~ _Richard Stallman_
 
-###### GNU/Linux <img src="https://media.giphy.com/media/MCRQ0Nkn4KfeQDdM7N/giphy.gif" alt="alicehello" style="width:55px;"/>
-###### Open-source software <img src="https://media.giphy.com/media/H3GAQuxmMVshiczfbC/giphy.gif" alt="alicehello" style="width:12px;"/>
-###### 3D engines <img src="https://media.giphy.com/media/jpyc96qzPcpUs/giphy.gif" alt="alicehello" style="width:10px;"/>
-###### Python <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" alt="alicehello" style="width:10px;"/>
-###### C and C++ <img src="https://media.giphy.com/media/hQEDZg7uiWE2FVnbmC/giphy.gif" alt="alicehello" style="width:10px;"/>
-
-# <img src="https://media.giphy.com/media/1o1lMvqAhw55UMCqzo/giphy.gif" alt="computer" style="width:50px;"/> Skills
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <br/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/opengl/opengl-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <br/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/unix/unix-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  
-  
-</div>
